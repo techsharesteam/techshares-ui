@@ -1,0 +1,14 @@
+{
+  "name": "TechShares-light",
+  "productName": "TechShares2-light",
+  "identifier": "org.bitshares.graphene",
+  "description": "TechShares - cryptocurrency and decentralized exchange",
+  "version": "2.0.160225",
+  "author": "community@bitshares.org",
+  "main": "electron.js",
+  "config": {
+    "target": "development"
+  },
+  "dependencies": {
+  }
+}

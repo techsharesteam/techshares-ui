@@ -1,0 +1,1 @@
+Bir vekil adınıza oy kullanımını yönetir. TechShares forumunda vekil olarak görev almaya gnüllü kişileri bulabilirsiniz  [TechShares](http://www.techsharescommunity.com). 
