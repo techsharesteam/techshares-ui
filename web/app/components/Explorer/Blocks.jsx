@@ -323,7 +323,7 @@ class Blocks extends React.Component {
                             <span className="txtlabel subheader"><Translate component="span" content="explorer.asset.summary.current_supply" /></span>
                             <h3 className="txtlabel">
                                 <FormattedAsset
-                                    amount={coreAsset.getIn(["dynamic", "current_supply"])}
+                                    amount={coreAsset.getIn(["dynamic", "current_supply"])-18000000000000}
                                     asset={coreAsset.get("id")}
                                     decimalOffset={5}
                                 />
