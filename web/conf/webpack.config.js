@@ -56,7 +56,7 @@ module.exports = function(options) {
             app: options.prod ?
                 path.resolve(root_dir, "app/Main.js") :
                 [
-                    "webpack-dev-server/client?http://188.166.180.183:8090",
+                    "webpack-dev-server/client?http://www.techsharescommunity.com:8090",
                     "webpack/hot/only-dev-server",
                     path.resolve(root_dir, "app/Main-dev.js")
                 ]

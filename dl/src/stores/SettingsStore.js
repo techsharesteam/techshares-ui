@@ -15,8 +15,8 @@ class SettingsStore {
 
         this.settings = Immutable.Map({
             locale: "en",
-            connection: "ws://188.166.180.183:8090",
-            faucet_address: "http://188.166.180.183:3000",
+            connection: "ws://www.techsharescommunity.com:8090",
+            faucet_address: "http://www.techsharescommunity.com:3000",
             unit: CORE_ASSET,
             showSettles: false,
             walletLockTimeout: 60 * 10,
@@ -89,7 +89,7 @@ class SettingsStore {
                 "cn"
             ],
             connection: [
-				"ws://188.166.180.183:8090"
+				"ws://www.techsharescommunity.com:8090"
             ],
             unit: [
                 CORE_ASSET,

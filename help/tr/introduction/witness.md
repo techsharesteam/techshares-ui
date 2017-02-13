@@ -9,6 +9,6 @@ tasdik  edilmek zorundadır.
 
 Kimin tam olarak hangi anda blok *ürettiği* , *Delegated Proof of Stake* 
 (Yetkilendirilmiş-vekil-pay-ispatı) denilen mutabakat mekanizmasıyla belirlenir. 
-Esasında, TechShares hissedarları (elinde BTS kuponu olan)  tercih edilen blok 
+Esasında, TechShares hissedarları (elinde THS kuponu olan)  tercih edilen blok 
 üreticilerine blokzincirinde oy verebilirler. O *tanıklar* adı verilen, en çok oyu alan 
 kimselerin blokları üretmelerine müsade edilir.
